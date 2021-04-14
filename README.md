@@ -1,7 +1,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pedro Gonçalves
 
 
-Front End developer who specializes in React. My skills consist of HTML, CSS(and Sass) JavaScript and Redux,  currently delving into the world of back end learning node, express and mongodb and soon aws. Not only am I passionate about technology, but thoroughly enjoy creating and working on innovative web applications. I am eager to gain new technical knowledge. I have a managerial background in the service industry which has lead me to be a good problem solver, leader and fast learner. I am also fluent in three languages - English, Portuguese and Spanish. 
+I am a front End developer who specializes in React. My skills consist of HTML, CSS(and Sass) JavaScript and Redux,  currently delving into the world of back end learning node, express and mongodb and soon aws. Not only am I passionate about technology, but thoroughly enjoy creating and working on innovative web applications. I am eager to gain new technical knowledge. I have a managerial background in the service industry which has lead me to be a good problem solver, leader and fast learner. I am also fluent in three languages - English, Portuguese and Spanish. 
 
 
 
